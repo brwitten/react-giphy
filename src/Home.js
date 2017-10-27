@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import HelloWorld from './components/HelloWorld.js';
 import Search from './components/Search.js';
-import SearchContainer from './containers/SearchContainer.js'
+import SearchContainer from './containers/SearchContainer.js';
 import './Home.css';
 
 
