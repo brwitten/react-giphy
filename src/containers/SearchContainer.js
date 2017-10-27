@@ -57,7 +57,8 @@ class SearchContainer extends Component {
   }
 }
     this.setState({hasSubmitted: true,
-      results: searchResults.data});
+      results: searchResults.data,
+      gifQuery:""});
   }
   render() {
       return (
